@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NumberBook" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/numberbook_primary</item>
+        <item name="colorPrimaryVariant">@color/numberbook_primary_variant</item>
+        <item name="colorSecondary">@color/numberbook_secondary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

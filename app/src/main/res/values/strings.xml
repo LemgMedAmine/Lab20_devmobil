@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NumberBook</string>
+    <string name="app_subtitle">Contacts du mobile synchronises avec MySQL</string>
+    <string name="load_contacts">Charger les contacts</string>
+    <string name="sync_contacts">Synchroniser</string>
+    <string name="search_hint">Rechercher par nom ou numero</string>
+    <string name="search">Rechercher</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="ready_status">Pret a charger les contacts</string>
+</resources>

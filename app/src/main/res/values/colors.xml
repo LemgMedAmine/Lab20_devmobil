@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="numberbook_primary">#1565C0</color>
+    <color name="numberbook_primary_variant">#0D47A1</color>
+    <color name="numberbook_secondary">#00897B</color>
+    <color name="numberbook_background">#F4F7FB</color>
+    <color name="numberbook_surface">#FFFFFF</color>
+    <color name="numberbook_text_primary">#1F2937</color>
+    <color name="numberbook_text_secondary">#64748B</color>
+    <color name="numberbook_border">#DDE6F3</color>
+</resources>
